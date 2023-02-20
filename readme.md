@@ -7,7 +7,7 @@ $$
 To start the the program, you can run the such command:
 
 ```shell
-git clone 
+git clone https://github.com/anepsilon/Drought-Stricken-Model.git
 cd ode_solve
 pip install numpy
 pip install scipy
