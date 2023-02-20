@@ -1,5 +1,6 @@
 # Build your model and solve the ODEs
 We use the ODEs like below:
+
 $$
 \dot{x_i}=r_ix_i-\beta_ix_i(x_i+\sum_{j\neq i}\alpha_{ij}x_j)
 $$
